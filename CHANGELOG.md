@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-30)
+## Unreleased (2025-06-05)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#7185](https://github.com/stdlib-js/stdlib/issues/7185)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`d4effdb`](https://github.com/stdlib-js/stdlib/commit/d4effdbd021088e1260f4e3beb0636261972744d) - **chore:** fix C lint errors [(#7217)](https://github.com/stdlib-js/stdlib/pull/7217) _(by zhanggy)_
 -   [`9e0a066`](https://github.com/stdlib-js/stdlib/commit/9e0a0664d313b17adcad1731477a218a77151d47) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`ba34630`](https://github.com/stdlib-js/stdlib/commit/ba346304a852e3aeb7525ed0da088139f7a33904) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -29,11 +42,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
+-   zhanggy
 
 </section>
 
