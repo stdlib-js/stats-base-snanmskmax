@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-06)
+## Unreleased (2025-06-07)
+
+<section class="features">
+
+### Features
+
+-   [`40c7647`](https://github.com/stdlib-js/stdlib/commit/40c7647191dbd98e2b3f4d34794da31af90eb20f) - add C ndarray interface and refactor implementation for `stats/base/snanmskmax` [(#7236)](https://github.com/stdlib-js/stdlib/pull/7236)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`40c7647`](https://github.com/stdlib-js/stdlib/commit/40c7647191dbd98e2b3f4d34794da31af90eb20f) - **feat:** add C ndarray interface and refactor implementation for `stats/base/snanmskmax` [(#7236)](https://github.com/stdlib-js/stdlib/pull/7236) _(by Gururaj Gurram, Athan Reines)_
 -   [`fe52935`](https://github.com/stdlib-js/stdlib/commit/fe52935c933cce3e5550436a283495fb1dec0898) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`d4effdb`](https://github.com/stdlib-js/stdlib/commit/d4effdbd021088e1260f4e3beb0636261972744d) - **chore:** fix C lint errors [(#7217)](https://github.com/stdlib-js/stdlib/pull/7217) _(by zhanggy)_
 -   [`9e0a066`](https://github.com/stdlib-js/stdlib/commit/9e0a0664d313b17adcad1731477a218a77151d47) - **refactor:** update paths _(by Aayush Khanna)_
